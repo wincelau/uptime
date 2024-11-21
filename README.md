@@ -1,4 +1,4 @@
-# [📈 Live Status](https://wincelau.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://wincelau.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Vincent LAURENT](https://wincelau.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
