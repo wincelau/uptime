@@ -1,7 +1,7 @@
 url: https://ratpstatus.fr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-21T15:28:00.399Z
+status: up
+code: 200
+responseTime: 1128
+lastUpdated: 2024-11-21T15:29:48.450Z
 startTime: 2024-11-21T14:43:11.567Z
 generator: Upptime <https://github.com/upptime/upptime>
