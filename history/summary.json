@@ -1,9 +1,9 @@
 [
   {
-    "name": "RATPStatus.fr Accueil",
+    "name": "RATPStatus.fr",
     "url": "https://ratpstatus.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/ratpstatus.fr.ico",
-    "slug": "ratp-status-fr-accueil",
+    "slug": "ratp-status-fr",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
