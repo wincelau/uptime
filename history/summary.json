@@ -1,20 +1,20 @@
 [
   {
-    "name": "RATPStatus",
+    "name": "RATPStatus.fr Accueil",
     "url": "https://ratpstatus.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/ratpstatus.fr.ico",
-    "slug": "ratp-status",
+    "slug": "ratp-status-fr-accueil",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1130,
-    "timeDay": 1130,
-    "timeWeek": 1130,
-    "timeMonth": 1130,
-    "timeYear": 1130,
+    "time": 1019,
+    "timeDay": 1019,
+    "timeWeek": 1019,
+    "timeMonth": 1019,
+    "timeYear": 1019,
     "dailyMinutesDown": {}
   }
 ]
