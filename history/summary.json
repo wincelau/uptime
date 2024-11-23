@@ -41,18 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/voteinutile.winy.fr.ico",
     "slug": "voteinutile-winy-fr",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 258,
     "timeDay": 255,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-11-23": 5,
       "2024-11-21": 23
     }
   }
