@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime
+  name: "Winy's status"
   introTitle: "Wincelau website status page"
   introMessage: 
   navbar:
