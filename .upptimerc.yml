@@ -9,6 +9,8 @@ sites:
     url: https://pdf.24eme.fr/
   - name: voteinutile.winy.fr
     url: https://voteinutile.winy.fr/
+  - name: seteortho.fr
+    url: https://seteortho.fr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
