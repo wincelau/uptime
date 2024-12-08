@@ -5,6 +5,8 @@ skipDeleteIssues: true
 sites:
   - name: ratpstatus.fr
     url: https://ratpstatus.fr/
+  - name: ratpstatus.fr/isuptodate.php
+    url: https://ratpstatus.fr/isuptodate.php
   - name: pdf.24eme.fr
     url: https://pdf.24eme.fr/
   - name: voteinutile.winy.fr
