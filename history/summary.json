@@ -4,10 +4,10 @@
     "url": "https://ratpstatus.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/ratpstatus.fr.ico",
     "slug": "ratpstatus-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1385,
@@ -15,14 +15,16 @@
     "timeWeek": 1425,
     "timeMonth": 1385,
     "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 1
+    }
   },
   {
     "name": "ratpstatus.fr/isuptodate.php",
     "url": "https://ratpstatus.fr/isuptodate.php",
     "icon": "https://icons.duckduckgo.com/ip3/ratpstatus.fr.ico",
     "slug": "ratpstatus-fr-isuptodate-php",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 136,
     "timeMonth": 136,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 0
+    }
   },
   {
     "name": "pdf.24eme.fr",
