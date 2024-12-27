@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ratpstatus.fr.ico",
     "slug": "ratpstatus-fr",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1348,
-    "timeDay": 1747,
-    "timeWeek": 1387,
-    "timeMonth": 1393,
-    "timeYear": 1348,
+    "uptimeYear": "99.98%",
+    "time": 1351,
+    "timeDay": 1482,
+    "timeWeek": 1345,
+    "timeMonth": 1397,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2024-12-15": 10,
       "2024-12-10": 3
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 132,
-    "timeDay": 171,
-    "timeWeek": 134,
+    "timeDay": 156,
+    "timeWeek": 131,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1319,
-    "timeDay": 1489,
-    "timeWeek": 1092,
-    "timeMonth": 1217,
-    "timeYear": 1319,
+    "time": 1318,
+    "timeDay": 1292,
+    "timeWeek": 1071,
+    "timeMonth": 1221,
+    "timeYear": 1318,
     "dailyMinutesDown": {
       "2024-12-05": 5
     }
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 287,
-    "timeDay": 400,
-    "timeWeek": 277,
-    "timeMonth": 279,
-    "timeYear": 287,
+    "time": 289,
+    "timeDay": 368,
+    "timeWeek": 269,
+    "timeMonth": 285,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2024-11-21": 23
     }
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 362,
-    "timeWeek": 332,
-    "timeMonth": 289,
-    "timeYear": 287,
+    "time": 290,
+    "timeDay": 366,
+    "timeWeek": 310,
+    "timeMonth": 292,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   }
 ]
