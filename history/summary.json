@@ -51,7 +51,7 @@
     "url": "https://pdf.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.24eme.fr.ico",
     "slug": "pdf-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -63,6 +63,7 @@
     "timeMonth": 1206,
     "timeYear": 1280,
     "dailyMinutesDown": {
+      "2025-01-22": 0,
       "2024-12-30": 1,
       "2024-12-28": 15,
       "2024-12-05": 5
