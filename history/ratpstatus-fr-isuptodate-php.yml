@@ -1,7 +1,7 @@
 url: https://ratpstatus.fr/isuptodate.php
-status: down
-code: 500
-responseTime: 98
-lastUpdated: 2025-05-06T19:20:11.619Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2025-05-06T19:23:12.939Z
 startTime: 2024-12-08T23:29:53.515Z
 generator: Upptime <https://github.com/upptime/upptime>
