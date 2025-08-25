@@ -124,9 +124,9 @@
     "url": "https://voteinutile.winy.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/voteinutile.winy.fr.ico",
     "slug": "voteinutile-winy-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +136,7 @@
     "timeMonth": 387,
     "timeYear": 345,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2024-11-21": 23
     }
   },
